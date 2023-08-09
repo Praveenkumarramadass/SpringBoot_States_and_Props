@@ -1,0 +1,14 @@
+.App{
+  text-align: center;
+  margin-top: 100px;
+}
+.title-{
+  display: inline-block;
+  border: 2px solid black;
+  height: 75px;
+  width: 100px;
+  border-radius: 150px;
+  background-color: yellow;
+  color: black;
+  padding-top: 20px;
+}
